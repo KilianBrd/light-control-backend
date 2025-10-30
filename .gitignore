@@ -1,0 +1,24 @@
+# Logs
+/light-control/logs
+light-control/*.log
+light-control/npm-debug.log*
+light-control/yarn-debug.log*
+light-control/yarn-error.log*
+light-control/pnpm-debug.log*
+light-control/lerna-debug.log*
+
+light-control/node_modules
+light-control/dist
+light-control/dist-ssr
+light-control/*.local
+
+# Editor directories and files
+light-control/.vscode/*
+light-control/!.vscode/extensions.json
+light-control/.idea
+light-control/.DS_Store
+light-control/*.suo
+light-control/*.ntvs*
+light-control/*.njsproj
+light-control/*.sln
+light-control/*.sw?
